@@ -1,11 +1,11 @@
-enter ~/work/(tnsr|pfsense)
-   export GIT_AUTHOR_NAME='Renato Botelho do Couto'
-   export GIT_AUTHOR_EMAIL='renato@netgate.com'
-   export GIT_COMMITTER_NAME='Renato Botelho do Couto'
-   export GIT_COMMITTER_EMAIL='renato@netgate.com'
+enter ~/work/bluepex/(utm|utm_versions_packs)
+   export GIT_AUTHOR_NAME='Wesley Peres'
+   export GIT_AUTHOR_EMAIL='wesley.peres@bluepex.com'
+   export GIT_COMMITTER_NAME='Wesley Peres'
+   export GIT_COMMITTER_EMAIL='wesley.peres@bluepex.com'
    echo 'Switched to git user/email settings for "work".'
 
-leave ~/work/(tnsr|pfsense)
+leave ~/work/bluepex/(utm|utm_versions_packs)
    unset GIT_AUTHOR_NAME
    unset GIT_AUTHOR_EMAIL
    unset GIT_COMMITTER_NAME

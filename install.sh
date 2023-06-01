@@ -52,7 +52,7 @@ done
 if [ -d "${HOME}/.zprezto" ]; then
 	echo "${HOME}/.zprezto is a directory, skipping... "
 else
-	if ! git clone --recursive git@github.com:rbgarga/prezto.git \
+	if ! git clone --recursive git@github.com:wperesbp/prezto.git \
 	    ${HOME}/.zprezto; then
 		echo "Error cloning prezto"
 		exit 1

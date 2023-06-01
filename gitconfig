@@ -1,6 +1,6 @@
 [user]
-	name = Renato Botelho
-	email = garga@FreeBSD.org
+	name = Wesley Peres
+	email = wesley.peres@bluepex.com
 [core]
 	pager = less -F -X
 	ignorecase = false
@@ -20,7 +20,7 @@
 [sendemail]
 	smtpEncryption = tls
 	smtpServer = smtp.gmail.com
-	smtpUser = garga.bsd@gmail.com
+	smtpUser = wfperesl2@gmail.com
 	smtpServerPort = 587
 	smtpPass = *************
 [fetch]
