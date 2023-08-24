@@ -15,7 +15,7 @@
 	smudge = git hawser smudge %f
 	required = true
 [merge]
-	tool = gvimdiff
+	tool = nvimdiff
 	conflictstyle = diff3
 [sendemail]
 	smtpEncryption = tls

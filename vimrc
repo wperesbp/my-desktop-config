@@ -109,6 +109,7 @@ au BufNewFile,BufRead *.hcl set tabstop=2 shiftwidth=2 softtabstop=2 expandtab
 au BufNewFile,BufRead *.cli,*.yang set tabstop=8 softtabstop=4 shiftwidth=4
 au BufNewFile,BufRead *.ex set tabstop=2 softtabstop=2 shiftwidth=2 expandtab
 au BufNewFile,BufRead *.sh set tabstop=8 softtabstop=8 shiftwidth=8 noexpandtab nocindent smartindent
+au BufNewFile,BufRead *.py set tabstop=8 softtabstop=8 shiftwidth=8 noexpandtab nocindent smartindent
 
 " List trailing chars
 set list
